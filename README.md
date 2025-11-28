@@ -1,25 +1,20 @@
-## Hi there 👋
+## Hi, I'm Nikola 👋
 
-My name is Nikola and I am looking for a job as a frontend developer.
+I'm currently seeking opportunities as a Data Analyst, Data Engineer, or in related data-focused roles.
 
-## About me:
+## 🚀 About me:
 
-✨ I have over a year of experience in the industry as a developer, where I primarily focused on creating and managing websites based on the WordPress platform.<br>
-🎯 Currently, my goals is to continuously improve my skills to create even more innovative and effective web solutions and to strive to become a specialist in my field. <br>
-📚 First of all, I am focusing on improving my English, learning React.js and developing my skills towards becoming a full-stack developer.<br>
+✨ I have over a year of experience in the IT industry, previously working as a developer focused on creating and managing websites on the WordPress platform.<br>
+📊 I am now fully transitioning into the data field and business analytics, where I can combine analytical thinking, technical skills, and a passion for improving processes and solving problems.
 
-## I code with:
+## 🎯 My current goals:
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
+* 📈 Strengthen my skills in data analysis, business analytics, and data engineering
+* 🐍 Develop strong proficiency in Python with a focus on data libraries (Pandas, NumPy, Matplotlib, SQLAlchemy)
+* 🛠️ Improve my abilities in:
+  ** data cleaning, transformation, and interpretation
+  ** SQL database work
+  ** building ETL/ELT workflows
+  ** creating dashboards, business insights, and data-driven recommendations
+* 💼 Expanding my understanding of business processes, KPIs, and translating data into actionable insights
+* Improving my English for effective communication in international environments
