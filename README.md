@@ -4,7 +4,7 @@ I'm currently seeking opportunities as a Data Analyst, Data Engineer, or in rela
 
 ## 🚀 About me
 
-✨ I have over a year of experience in the IT industry, previously working as a developer focused on creating and managing websites on the WordPress platform.<br>
+✨ I have over a year of experience in the IT industry, previously working as a developer focused on creating and managing websites on the WordPress platform.<br><br>
 📊 I am now fully transitioning into the data field and business analytics, where I can combine analytical thinking, technical skills, and a passion for improving processes and solving problems.
 
 ## 🎯 My current goals
